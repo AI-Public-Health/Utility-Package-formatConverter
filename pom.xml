@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.pitt.format</groupId>
-    <artifactId>formatConverter-maven</artifactId>
+    <artifactId>formatconverter-maven</artifactId>
     <version>1.0-SNAPSHOT</version>
          
          <distributionManagement>
