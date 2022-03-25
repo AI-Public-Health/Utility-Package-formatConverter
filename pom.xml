@@ -7,6 +7,14 @@
     <groupId>edu.pitt.formate</groupId>
     <artifactId>formatConverter-maven</artifactId>
     <version>1.0-SNAPSHOT</version>
+         
+         <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/AI-Public-Health/Utility-Package-formatConverter</url>
+        </repository>
+    </distributionManagement>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
