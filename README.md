@@ -3,6 +3,8 @@
 
 A java project to convert datasets between different formats (arff, eav, nam/cas)
 
+This project is developed based on this repo https://github.com/arturolp/formatConverter
+
 
 ## Examples
 <b>Example BIF to XDSL:</b>
