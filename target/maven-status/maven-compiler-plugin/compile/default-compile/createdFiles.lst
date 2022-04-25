@@ -1,0 +1,12 @@
+edu/pitt/dbmi/tools/Tools.class
+edu/pitt/dbmi/dataset/ConvertCSVtoARFF.class
+edu/pitt/dbmi/main/FormatConverter.class
+edu/pitt/dbmi/dataset/ConvertARFFtoEBMC.class
+edu/pitt/dbmi/tools/FileManager.class
+edu/pitt/dbmi/dataset/ConvertEAVtoARFF.class
+edu/pitt/dbmi/dataset/ConvertBIFtoGENIE.class
+edu/pitt/dbmi/dataset/ConvertWekaNBtoGENIE.class
+edu/pitt/dbmi/dataset/UpdateUMLScodesinXDSL.class
+edu/pitt/dbmi/dataset/ConvertGENIEtoBIF.class
+edu/pitt/dbmi/tools/Util.class
+edu/pitt/dbmi/dataset/Node.class
