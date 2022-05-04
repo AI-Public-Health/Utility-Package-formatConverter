@@ -6,7 +6,7 @@
 
     <groupId>edu.pitt.dbmi</groupId>
     <artifactId>formatconverter-maven</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
          
          <distributionManagement>
         <repository>
